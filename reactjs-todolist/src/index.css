@@ -115,3 +115,12 @@ p {
     font-size: 1em;
   }
 }
+
+.todo-header {
+  padding: 10px;
+  align-self: center;
+}
+
+.todo-header, h1 {
+  color: white;
+}
